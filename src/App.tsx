@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, View } from 'react-native';
+import { View } from 'react-native';
 import NumberSignIn from './application/authentication/new-user/number-sign-in';
 import UserProfile from './application/authentication/new-user/user-profile';
 
