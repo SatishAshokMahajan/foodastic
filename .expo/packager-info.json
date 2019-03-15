@@ -2,8 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 5459,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "packagerPid": 6929,
+  "expoServerNgrokUrl": "https://jn-hwa.anonymous.foodastic-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.jn-hwa.anonymous.foodastic-app.exp.direct",
+  "ngrokPid": 6957,
+  "webpackServerPort": null
 }
