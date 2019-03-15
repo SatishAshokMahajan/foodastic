@@ -24,6 +24,12 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "ios": {
+      "bundleIdentifier": "com.sarvesarva.foodastic"
+    },
+    "android": {
+      "package": "com.sarvesarva.foodastic"
     }
   }
 }
