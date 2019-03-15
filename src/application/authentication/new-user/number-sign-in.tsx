@@ -5,7 +5,7 @@ interface NumberSignInStateProps {
     text?: string
 }
 export default class NumberSignIn extends React.Component<NumberSignInStateProps> {
-    constructor(props) {
+    constructor(props: NumberSignInStateProps) {
         super(props);
         this.state = {
             text: ''
