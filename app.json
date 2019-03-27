@@ -12,7 +12,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/foodastic.png",
+      "image": "./assets/giphy.gif",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
