@@ -1,0 +1,22 @@
+[
+    {
+        "item": "Dal rice",
+        "price": "100",
+        "cal_gm": "10"
+    },
+    {
+        "item": "Biryani",
+        "price": "150",
+        "cal_gm": "20"
+    },
+    {
+        "item": "Curd Rice",
+        "price": "120",
+        "cal_gm": "15"
+    },
+    {
+        "item": "Fried rice",
+        "price": "90",
+        "cal_gm": "9"
+    }
+]

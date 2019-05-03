@@ -1,10 +1,10 @@
 {
-  "devToolsPort": 19003,
+  "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": "https://ib-dgp.sarvesarva.foodastic-app.exp.direct",
-  "packagerNgrokUrl": "https://packager.ib-dgp.sarvesarva.foodastic-app.exp.direct",
-  "ngrokPid": 7682,
+  "packagerPort": 19001,
+  "packagerPid": 15997,
+  "expoServerNgrokUrl": "https://ib-dgp.anonymous.foodastic.exp.direct",
+  "packagerNgrokUrl": "https://packager.ib-dgp.anonymous.foodastic.exp.direct",
+  "ngrokPid": 16018,
   "webpackServerPort": null
 }
